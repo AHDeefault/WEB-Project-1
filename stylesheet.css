@@ -203,7 +203,7 @@ nav a.active {
 
 /* Media queries */
 /* Mobil op til 375px */
-@media (max-width: 375px) {
+@media (max-width: 360px) {
   .about-section {
     grid-template-columns: 1fr;
     padding: 2rem 5%;
